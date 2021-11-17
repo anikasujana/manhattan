@@ -4,7 +4,7 @@ Welcome to Midtown! Here, you will see information about the borough's location 
 
 ### Midtown Map
 
-![Midtown Map](midtownmap.jpg)
+![Midtown Map](https://github.com/anikasujana/manhattan/blob/gh-pages/midtownmap.jpg)
 
 **Bold** and _Italic_ and `Code` text
 
