@@ -4,7 +4,7 @@ Welcome to Midtown! Here, you will see information about the borough's location 
 
 ### Midtown Map
 
-![Midtown Map](https://github.com/anikasujana/manhattan/blob/gh-pages/midtownmap.jpg)
+![Midtown Map](/midtownmap.jpg)
 
 
 ### Demographics & Statistics
@@ -26,13 +26,13 @@ Ranking of Manhattan’s Neighborhoods (Best to Least Best):
 
 ### Roadway Access
 
-![Midtown Roadway](https://github.com/anikasujana/manhattan/blob/gh-pages/midtownroadway.jpg)
+![Midtown Roadway](/midtownroadway.jpg)
 
 Following the West Village in a close second was Midtown with the second highest number of restaurants with sidewalk and roadway seating availability. Similarly, as found within the honors assignment 2, since Midtown is heavily known for its famous tourist attractions including the Empire State Building, Rockefeller Center, and the Chrysler Building, this neighborhood is filled with abundant restaurants and bars usually within a block or two radius from these attractions to gain customers from tourists. As a result, since there are significantly more restaurants within the neighborhood itself, this serves as an explanation as to why it contained significantly more restaurants with seating availability.
 
 ### Alcohol Served Statistics
 
-![Midtown Alcohol](https://github.com/anikasujana/manhattan/blob/gh-pages/midtownalcohol.jpg)
+![Midtown Alcohol](/midtownalcohol.jpg)
 
 While neighborhoods such as the West Village and Midtown were able to top the rankings due to its greater quantity of restaurants, smaller neighborhoods such as the East Village were able to surpass a larger neighborhood like Soho.
 
