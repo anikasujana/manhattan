@@ -27,10 +27,20 @@ Ranking of Manhattan’s Neighborhoods (Best to Least Best):
 4. West Village
 5. Midtown
 
-### Jekyll Themes
+### Roadway Access
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anikasujana/manhattan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Midtown Roadway](https://github.com/anikasujana/manhattan/blob/gh-pages/midtownroadway.jpg)
 
-### Support or Contact
+Following the West Village in a close second was Midtown with the second highest number of restaurants with sidewalk and roadway seating availability. Similarly, as found within the honors assignment 2, since Midtown is heavily known for its famous tourist attractions including the Empire State Building, Rockefeller Center, and the Chrysler Building, this neighborhood is filled with abundant restaurants and bars usually within a block or two radius from these attractions to gain customers from tourists. As a result, since there are significantly more restaurants within the neighborhood itself, this serves as an explanation as to why it contained significantly more restaurants with seating availability.
 
-Having trouble with Pages Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Alcohol Served Statistics
+
+![Midtown Roadway](https://github.com/anikasujana/manhattan/blob/gh-pages/midtownalcohol.jpg)
+
+While neighborhoods such as the West Village and Midtown were able to top the rankings due to its greater quantity of restaurants, smaller neighborhoods such as the East Village were able to surpass a larger neighborhood like Soho.
+
+### Map of Restaurants Located in Midtown
+
+<dl>
+<iframe src="MidtownRestaurants.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</dl>
