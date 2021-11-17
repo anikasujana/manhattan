@@ -32,7 +32,7 @@ Following the West Village in a close second was Midtown with the second highest
 
 ### Alcohol Served Statistics
 
-![Midtown Roadway](https://github.com/anikasujana/manhattan/blob/gh-pages/midtownalcohol.jpg)
+![Midtown Alcohol](https://github.com/anikasujana/manhattan/blob/gh-pages/midtownalcohol.jpg)
 
 While neighborhoods such as the West Village and Midtown were able to top the rankings due to its greater quantity of restaurants, smaller neighborhoods such as the East Village were able to surpass a larger neighborhood like Soho.
 
